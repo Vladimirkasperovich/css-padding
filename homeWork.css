@@ -1,0 +1,147 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+*,
+*:before,
+*:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:focus,
+:active {
+    outline: none;
+}
+
+a:focus,
+a:active {
+    outline: none;
+}
+
+nav,
+footer,
+header,
+aside {
+    display: block;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+input,
+button,
+textarea {
+    font-family: inherit;
+}
+
+input::-ms-clear {
+    display: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: inherit;
+    font-weight: 400;
+}
+
+/****************************/
+.qqq {
+    text-indent: 30px;
+    margin: 40px 729px 10px 50px;
+    padding: 0px 10px 0px 0px;
+    line-height: 25px;
+    border: 1px solid #000;
+}
+
+.www {
+    display: block;
+    margin: 20px 1030px 0px 70px;
+    border: 1px solid #000;
+}
+
+.eee {
+    display: block;
+    margin: 5px 850px 30px 97px;
+    border: 1px solid #000;
+}
+
+.rrr {
+
+    text-indent: 25px;
+    padding: 0px 0px 40px 0px;
+    margin: 30px 350px 100px 50px;
+    line-height: 25px;
+    border: 1px solid #000;
+}
+
+.ttt {
+    margin: -80px 1020px 20px 82px;
+    border: 1px solid #000;
+}
+
+.yyy {
+    margin: -35.5px 800px 0px 300px;
+    border: 1px solid #000;
+}
+
+.uuu {
+    display: block;
+    margin: 40px 750px 0px 120px;
+    padding: 0px 20px 0px 30px;
+    border: 1px solid #000;
+}
+
+.iii {
+    display: block;
+    margin: -15.6px 300px 0px 550px;
+    border: 1px solid #000;
+}
+.ooo{
+    display: block;
+    margin: 50px 890px 0px 50px;
+    padding: 40px 0px 40px 0px;
+    border: 1px solid #000;
+}
